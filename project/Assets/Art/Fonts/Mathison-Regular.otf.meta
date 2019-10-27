@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: ac4be82fd75b54e36a82cdc4df5eaa87
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Mathison
+  fontNames:
+  - Mathison
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 075e70d1caee64bdd98ba22aac340abe, type: 3}
+  - {fileID: 12800000, guid: 5cb27acaae93e471fa8a40632fda3564, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
